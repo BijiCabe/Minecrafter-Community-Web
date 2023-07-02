@@ -1,0 +1,162 @@
+body {
+   background-image:url(..//assets/bg2.jpg);
+   background-repeat:no-repeat;
+   background-size: cover;
+   background-attachment:fixed;
+}
+
+.kotakscroll {
+  border: 2px solid black;
+  height: 925px;
+  width: 340px;
+  position:relative;
+  bottom:5px;
+}
+
+.admin {
+  border: black 2px solid;
+  height:45px;
+  width:100px;
+  position:relative;
+  border-bottom-left-radius:10%;
+  border-bottom-right-radius:10%;
+  border-top-style:none;
+  border-left-style:none;
+  border-bottom-width:3px;
+}
+
+.mimin {
+  font-family:Courier;
+  position:relative;
+  left:10px;
+  top:8px;
+  font-size:26px;
+  text-decoration:none;
+  color:white;
+}
+
+.feedback {
+  border: 2px black solid ;
+  height:45px;
+  width:138px;
+  position:relative;
+  left:99px;
+  bottom:50px;
+  border-bottom-left-radius:10%;
+  border-bottom-right-radius:10%;
+  border-left-style:none;
+  border-right-style:none;
+  border-bottom-width:3px;
+}
+
+
+.fidback {
+  font-family:Courier;
+  text-decoration:none;
+  position:relative;
+  font-size:26px;
+  top:8px;
+  left:5px;
+  color:white;
+}
+
+.about {
+  border:2px black solid;
+  height:45px;
+  width:102px;
+  position:relative;
+  left:236px;
+  bottom:98px;
+  border-bottom-left-radius:10%;
+  border-bottom-right-radius:10%;
+  border-top-style:none;
+  border-right-style:none;
+  border-bottom-width:3px;
+}
+
+.tentang {
+  font-family:Courier;
+  font-size:26px;
+  text-decoration:none;
+  position:relative;
+  top:8px;
+  left:10px;
+  color:white;
+}
+
+img {
+height:100px;
+width:200px;
+position:relative;
+left:68px;
+bottom:90px;
+}
+
+history .masalalu {
+  color:white;
+  font-family:Courier;
+  text-align:left;
+  position:relative;
+  bottom:90px;
+}
+
+ .cerita {
+  color:white;
+  font-family:Courier;
+  text-align:left;
+  position:relative;
+  line-height:20px;
+  text-indent:30px;
+  bottom:100px;
+ text-align:justify;
+ font-weight:bold;
+}
+ .cerita2 {
+  color:white;
+  font-family:Courier;
+  text-align:left;
+  position:relative;
+  line-height:20px;
+  text-indent:30px;
+  bottom:98px;
+ text-align:justify;
+ font-weight:bold;
+}
+ .cerita3 {
+  color:white;
+  font-family:Courier;
+  text-align:left;
+  position:relative;
+  line-height:20px;
+  text-indent:30px;
+  bottom:98px;
+ text-align:justify;
+ font-weight:bold;
+}
+ .cerita4 {
+  color:white;
+  font-family:Courier;
+  text-align:left;
+  position:relative;
+  line-height:20px;
+  text-indent:30px;
+  bottom:98px;
+ text-align:justify;
+ font-weight:bold;
+}
+
+.cerita, .cerita2, .cerita3, .cerita4 {
+  font-size:15px;
+}
+ 
+
+nama {
+  font-style:italic;
+}
+
+.versiweb {
+  color:white;
+  font-weight:italic;
+  font-family:Courier;
+}
+
